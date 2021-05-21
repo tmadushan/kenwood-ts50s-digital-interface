@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Kenwood-TS50s-Digi-Interface.PrjPcb]
+   Generated File[ts-50s-digi-interface.GTO]
+   Generated File[ts-50s-digi-interface.GTP]
+   Generated File[ts-50s-digi-interface.GTS]
+   Generated File[ts-50s-digi-interface.GTL]
+   Generated File[ts-50s-digi-interface.GBL]
+   Generated File[ts-50s-digi-interface.GBS]
+   Generated File[ts-50s-digi-interface.GBP]
+   Generated File[ts-50s-digi-interface.GBO]
+   Generated File[ts-50s-digi-interface.GM1]
+   Generated File[ts-50s-digi-interface.GM5]
+   Generated File[ts-50s-digi-interface.GM13]
+   Generated File[ts-50s-digi-interface.GM15]
+   Generated File[ts-50s-digi-interface.GM16]
+   Generated File[ts-50s-digi-interface.GKO]
+   Generated File[ts-50s-digi-interface.GML]
+   Generated File[ts-50s-digi-interface.1]
+   Generated File[ts-50s-digi-interface.GD1]
+   Generated File[ts-50s-digi-interface.GG1]
+   Generated File[ts-50s-digi-interface.RUL]
+   Generated File[ts-50s-digi-interface.EXTREP]
+   Generated File[ts-50s-digi-interface.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 7:28:54 PM On 21-May-21
