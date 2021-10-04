@@ -2,3 +2,13 @@
 Version=1.0
 [Project1]
 ProjectPath=Kenwood-TS50s-Digi-Interface.PrjPcb
+[Project2]
+ProjectPath=..\..\13.8V-30A-PSU\13.8V-30A-PSU.PrjPcb
+[Project3]
+ProjectPath=D:\Personal Projects\Marco-CO2\air-quality-monitor-pcb\AQM-PCB.PrjPcb
+[Project4]
+ProjectPath=D:\Personal Projects\Marco-CO2\prog-adapter\prog-adapter.PrjPcb
+[Project5]
+ProjectPath=D:\TechLabs\Divolgo\PCB\divolgo-v.5.2\divolgo-v.5.2\divolgo-v5.2.PrjPcb
+[Project7]
+ProjectPath=D:\Personal Projects\Marco-CO2\Data\pir-ti-design_files\TIDA01398-Altium\TIDA01398.PrjPcb
