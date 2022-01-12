@@ -1,0 +1,5 @@
+I want to make a clarification - add a control COM port on a board for connection with TS-50
+
+it is necessary to make an optoelectronic isolation from the TS-50. In the transceiver, the COM port inputs go directly to the processor and without isolation it is possible to burn these inputs
+
+three more optocouplers are needed to isolate the signals on COM port - Tx, Rx and CTS. 
