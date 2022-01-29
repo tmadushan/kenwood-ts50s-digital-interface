@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\tmadu\Documents\Amateur Radio\Kenwood-TS50s-Digi-Interface\Kenwood-TS50s-Digi-Interface\Project Outputs for Kenwood-TS50s-Digi-Interface\Pick Place\Pick Place for ts-50s-digi-interface.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/01/22
+Time:       16:38
+Revision:   d56e56224873e923ae4b2a7c45402df59ec3e9be
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"TP4","+5V_R","TopLayer","KSTN-5001","3205.000","14810.000","0","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"TP6","SPK OUT","TopLayer","KSTN-5001","2890.000","13785.000","0","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"TP5","DIGI","TopLayer","KSTN-5001","1845.000","13610.000","0","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"VR1","3852A-282-103AL","TopLayer","BOUR-3852A-282-103AL-3_V","3072.483","13157.470","0","Diameter Panel Control, 100 KOhm, +/- 10%, 2 W, -1 to 125 degC, 3-Pin THD, RoHS, Bulk"
+"U5","CAT-Rx","TopLayer","Vishay_4N35_0","3555.000","14110.000","360","IC OPTOISO 5KV TRANS W/BASE 6DIP"
+"U4","CAT-Tx","TopLayer","Vishay_4N35_0","3106.667","14110.000","360","IC OPTOISO 5KV TRANS W/BASE 6DIP"
+"U3","PTT","TopLayer","Vishay_4N35_0","2658.333","14110.000","360","IC OPTOISO 5KV TRANS W/BASE 6DIP"
+"U2","PTT","TopLayer","Vishay_4N35_0","2210.000","14110.000","360","IC OPTOISO 5KV TRANS W/BASE 6DIP"
+"U1","CH340B","TopLayer","SOIC-16","2905.000","14701.969","270","Transceiver USB 2.0 2Mbps SOP-16_150mil USB ICs RoHS"
+"TP3","+5V","TopLayer","KSTN-5001","2380.000","14815.000","90","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"TP2","GND_R","TopLayer","KSTN-5001","2110.000","14380.000","90","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"TP1","GND","TopLayer","KSTN-5001","1970.000","14380.000","90","Test Point, Black, 1-Pin THD, RoHS, Bulk"
+"T2","SM-LP-5001","TopLayer","SM-LP-5001","2395.000","13510.000","360","TRANSFORMER LINE MATCHING SMD"
+"T1","SM-LP-5001","TopLayer","SM-LP-5001","3310.000","13510.000","360","TRANSFORMER LINE MATCHING SMD"
+"SW2","Voice <--> Digital, CW","TopLayer","FP-A101SDCQ04-MFG","2472.483","12777.470","0","SWITCH TOGGLE SPDT 5A 120V"
+"SW1","RST","TopLayer","FP-B3U-1000P-B-MFG","2450.000","14705.000","360","SWITCH TACTILE SPST-NO 0.05A 12V"
+"R12","330 Ohms","TopLayer","RES_0603_1608","3845.000","14140.000","90","RES SMD 330 OHM 1% 1/10W 0603"
+"R11","330 Ohms","TopLayer","RES_0603_1608","3405.000","14350.000","270","RES SMD 330 OHM 1% 1/10W 0603"
+"R10","330 Ohms","TopLayer","RES_0603_1608","3360.000","15330.000","270","RES SMD 330 OHM 1% 1/10W 0603"
+"R9","1 kOhms","TopLayer","RES_0603_1608","3895.000","13392.087","90","RES SMD 1K OHM 1% 1/10W 0603"
+"R8","330 Ohms","TopLayer","RES_0603_1608","2960.000","14345.000","90","RES SMD 330 OHM 1% 1/10W 0603"
+"R7","330 Ohms","BottomLayer","RES_0603_1608","1865.000","14540.000","270","RES SMD 330 OHM 1% 1/10W 0603"
+"R6","330 Ohms","BottomLayer","RES_0603_1608","1870.000","14235.000","270","RES SMD 330 OHM 1% 1/10W 0603"
+"R5","2kR","TopLayer","RESC1608X55X25NL10T15","2413.794","14972.209","180",""
+"R4","2kR","TopLayer","RESC1608X55X25NL10T15","2413.794","14909.925","180",""
+"R3","2kR","TopLayer","RESC1608X55X25NL10T15","2420.000","15255.000","270",""
+"R2","DNP","TopLayer","FP-RC0603-MFG","2035.000","14480.000","360","DNP"
+"R1","0O","TopLayer","FP-RC0603-MFG","3200.972","15147.047","90","RES SMD 0 OHM JUMPER 1/10W 0603"
+"P3","Line Out","TopLayer","HDR1X2","3793.701","13467.677","270","3.5mm Mono"
+"P2","Line In","TopLayer","HDR1X2","3793.701","13702.677","90","3.5mm Mono"
+"P1","To CN6","TopLayer","HDR1X6","3310.000","15495.000","180","Header, 6-Pin"
+"J4","Mic Input. (GX-8 Male)","TopLayer","GX-8","2002.483","12790.206","0","8 Position Circular Connector Receptacle, Male Pins Solder"
+"J3","To TS50 Front Panel. (GX-8 F)","TopLayer","GX-8","3785.003","12790.206","0","8 Position Circular Connector Receptacle, Male Pins Solder"
+"J2","CW Key","TopLayer","MOLEX_KK_0022272021","2125.000","15440.000","360","CONN HEADER VERT 2POS 2.54MM"
+"J1","U254-051N-4BH806","TopLayer","CONN_10103594-0001LF_AMP","2750.748","15442.087","180","USB - Micro B Female USB 2 5 SMD USB Connectors RoHS"
+"DS5","PTT","TopLayer","AVAG-HLMP-3301-2","1757.913","14510.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
+"DS4","CW","TopLayer","AVAG-HLMP-3301-2","1757.913","14180.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
+"DS3","PWR","TopLayer","EVRL-0603-2_V","2355.000","15255.000","270","Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+"DS2","RX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14969.925","180","Yellow 590nm LED Indication - Discrete 2V 0603 (1608 Metric)"
+"DS1","TX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14907.642","180","No Description Available"
+"D6","1N4148WT","BottomLayer","FAIR-SOD-523F-2_V","1930.000","14535.000","270","High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS"
+"D5","1N4148WT","BottomLayer","FAIR-SOD-523F-2_V","1930.000","14225.000","270","High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS"
+"D4","ESD Diode","TopLayer","0603ESDA-05N","2845.972","15167.429","270","Bidirectional - 50V - 5V 0603 ESD Protection Devices ROHS"
+"D3","ESD Diode","TopLayer","0603ESDA-05N","2700.000","15135.000","180","Bidirectional - 50V - 5V 0603 ESD Protection Devices ROHS"
+"D2","ESD Diode","TopLayer","0603ESDA-05N","2700.000","15250.000","180","Bidirectional - 50V - 5V 0603 ESD Protection Devices ROHS"
+"D1","BAT760-7","TopLayer","SOD323_DIO","2920.972","15162.429","90","30V 1A 550mV @ 1A SOD-323 Schottky Barrier Diodes (SBD) RoHS"
+"C6","100pF","TopLayer","CAP_0603_1608","1990.000","13584.882","90","CAP CER 100PF 50V C0G/NP0 0603"
+"C5","100pF","TopLayer","CAP_0603_1608","2890.000","13584.882","90","CAP CER 100PF 50V C0G/NP0 0603"
+"C4","100nF","TopLayer","CAPC1608X90X35ML10T15","2540.000","14835.000","360","Chip Capacitor, 100 nF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C3","100nF","TopLayer","CAPC1608X90X35ML10T15","2930.000","15005.000","90","Chip Capacitor, 100 nF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"
+"C2","10uF","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","3105.972","15147.429","90","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C1","100nF","TopLayer","CAPC1608X90X35ML10T15","3010.972","15147.429","270","Chip Capacitor, 100 nF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"

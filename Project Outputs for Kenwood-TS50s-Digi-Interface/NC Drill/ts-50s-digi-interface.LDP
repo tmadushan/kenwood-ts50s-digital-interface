@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\tmadu\Documents\Amateur Radio\Kenwood-TS50s-Digi-Interface\Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ts-50s-digi-interface.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=ts-50s-digi-interface-rectholes.txt|DrillLayers=gtl,gbl

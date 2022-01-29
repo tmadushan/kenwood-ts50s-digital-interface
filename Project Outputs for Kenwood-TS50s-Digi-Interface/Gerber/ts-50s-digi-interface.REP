@@ -1,0 +1,634 @@
+*************************************************************
+FileName = ts-50s-digi-interface.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Assembly
+      File : ts-50s-digi-interface.GM4
+
+    Adding Layer      : Top Assembly
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ts-50s-digi-interface.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ts-50s-digi-interface.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ts-50s-digi-interface.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ts-50s-digi-interface.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ts-50s-digi-interface.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D24
+    D27
+    D28
+    D30
+    D35
+    D36
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ts-50s-digi-interface.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : ts-50s-digi-interface.GM24
+
+    Adding Layer      : Bottom Component Center
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : ts-50s-digi-interface.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ts-50s-digi-interface.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D14
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : ts-50s-digi-interface.GM6
+
+    Adding Layer      : Top Component Center
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ts-50s-digi-interface.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D38
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : ts-50s-digi-interface.GM10
+
+    Adding Layer      : Mechanical 10
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : ts-50s-digi-interface.GM3
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ts-50s-digi-interface.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D22
+    D49
+    D59
+    D60
+    D61
+    D62
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : ts-50s-digi-interface.GM5
+
+    Adding Layer      : Mechanical 5
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ts-50s-digi-interface.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D49
+    D59
+    D60
+    D61
+    D62
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ts-50s-digi-interface.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ts-50s-digi-interface.GG1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D92
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : ts-50s-digi-interface.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : ts-50s-digi-interface.GM16
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 7
+      File : ts-50s-digi-interface.GM7
+
+    Adding Layer      : Mechanical 7
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ts-50s-digi-interface.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D49
+    D59
+    D60
+    D61
+    D62
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : ts-50s-digi-interface.GM20
+
+    Adding Layer      : Bottom Assembly
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ts-50s-digi-interface.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 12
+      File : ts-50s-digi-interface.GM12
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ts-50s-digi-interface.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D87
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : ts-50s-digi-interface.GM2
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ts-50s-digi-interface.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D17
+    D22
+    D49
+    D59
+    D60
+    D61
+    D62
+    D67
+    D68
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+*************************************************************
+
