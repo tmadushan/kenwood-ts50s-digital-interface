@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Kenwood-TS50s-Digi-Interface
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,475 +156,229 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\Test Points\Assembly Testpoint Report for ts-50s-digi-interface.csv
+[Document8]
+DocumentPath=bottomplate.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ROKRSHSL
 
-[GeneratedDocument2]
+[Document9]
+DocumentPath=faceplate.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Test Points\Assembly Testpoint Report for ts-50s-digi-interface.csv
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-Kenwood-TS50s-Digi-Interface.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\BOM\Bill of Materials-Kenwood-TS50s-Digi-Interface.xlsx
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Design Rule Check - ts-50s-digi-interface.html
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\ComponentState\Kenwood-TS50s-Digi-Interface.html
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\ERC\Kenwood-TS50s-Digi-Interface.html
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ComponentState\Kenwood-TS50s-Digi-Interface.html
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ERC\Kenwood-TS50s-Digi-Interface.html
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for ts-50s-digi-interface.csv
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Pick Place\Pick Place for ts-50s-digi-interface.csv
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=..\..\..\..\AppData\Local\Temp\Pro1019.xls
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\..\..\AppData\Local\Temp\ProE798.xls
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface-BoardEdgeRout.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.1
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\AutoCAD PCB\ts-50s-digi-interface.DWG
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\AutoCAD PCB\ts-50s-digi-interface.DWG
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument41]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument53]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument55]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument56]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument57]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument58]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument59]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM5
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM6
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument64]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument66]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument67]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument68]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument69]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument70]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument71]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument73]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument74]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument76]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument77]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument79]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM20
 DItemRevisionGUID=
 
-[GeneratedDocument80]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument81]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM21
 DItemRevisionGUID=
 
-[GeneratedDocument82]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM23
-DItemRevisionGUID=
-
-[GeneratedDocument83]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM23
 DItemRevisionGUID=
 
-[GeneratedDocument84]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GM24
-DItemRevisionGUID=
-
-[GeneratedDocument85]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GM24
 DItemRevisionGUID=
 
-[GeneratedDocument86]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GML
-DItemRevisionGUID=
-
-[GeneratedDocument87]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument88]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument89]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument90]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument91]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument92]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument93]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument94]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument95]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument96]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument97]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument98]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument99]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument100]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument101]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument102]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument103]
-DocumentPath=Project Outputs for Free Documents\DRC\ts-50s-digi-interface.html
-DItemRevisionGUID=
-
-[GeneratedDocument104]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\DRC\ts-50s-digi-interface.html
 DItemRevisionGUID=
 
-[GeneratedDocument105]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument106]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument107]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.REP
-DItemRevisionGUID=
-
-[GeneratedDocument108]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.REP
 DItemRevisionGUID=
 
-[GeneratedDocument109]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.REP
-DItemRevisionGUID=
-
-[GeneratedDocument110]
-DocumentPath=Project Outputs for Free Documents\Gerber\ts-50s-digi-interface.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument111]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Gerber\ts-50s-digi-interface.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument112]
-DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ts-50s-digi-interface.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument113]
-DocumentPath=Project Outputs for Free Documents\ExportSTEP\ts-50s-digi-interface.step
-DItemRevisionGUID=
-
-[GeneratedDocument114]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\ExportSTEP\ts-50s-digi-interface.step
 DItemRevisionGUID=
 
-[GeneratedDocument115]
-DocumentPath=Project Outputs for Free Documents\NC Drill\ts-50s-digi-interface.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument116]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\NC Drill\ts-50s-digi-interface.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument117]
-DocumentPath=Project Outputs for Free Documents\Report Board Stack\ts-50s-digi-interface.xls
-DItemRevisionGUID=
-
-[GeneratedDocument118]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Kenwood-TS50s-Digi-Interface\Report Board Stack\ts-50s-digi-interface.xls
 DItemRevisionGUID=
 
@@ -643,7 +397,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Kenwood-TS50s-Digi-Interface
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
