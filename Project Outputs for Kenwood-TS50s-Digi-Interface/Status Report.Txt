@@ -1,10 +1,28 @@
-Output: Export STEP
-Type  : ExportSTEP
-From  : Variant [[No Variations]] of PCB Document [ts-50s-digi-interface.PcbDoc]
-   Generated File[ts-50s-digi-interface.step]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Kenwood-TS50s-Digi-Interface.PrjPcb]
+   Generated File[faceplate.GTO]
+   Generated File[faceplate.GTP]
+   Generated File[faceplate.GTS]
+   Generated File[faceplate.GTL]
+   Generated File[faceplate.GBL]
+   Generated File[faceplate.GBS]
+   Generated File[faceplate.GBP]
+   Generated File[faceplate.GBO]
+   Generated File[faceplate.GM1]
+   Generated File[faceplate.GKO]
+   Generated File[faceplate.GPT]
+   Generated File[faceplate.GPB]
+   Generated File[faceplate.GML]
+   Generated File[faceplate.1]
+   Generated File[faceplate.GD1]
+   Generated File[faceplate.GG1]
+   Generated File[faceplate.RUL]
+   Generated File[faceplate.EXTREP]
+   Generated File[faceplate.REP]
 
 
-Files Generated   : 1
+Files Generated   : 19
 Documents Printed : 0
 
-Finished Output Generation At 16:39:19 On 28/01/2022
+Finished Output Generation At 21:01:52 On 31/01/2022

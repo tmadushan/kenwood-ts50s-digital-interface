@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ts-50s-digi-interface.PcbDoc   28/01/2022  16:38:51
+NCDrill File Report For: ts-50s-digi-interface.PcbDoc   31/01/2022  15:54:52
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,7 +10,7 @@ EIA File   : ts-50s-digi-interface.DRL
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      18mil (0.45mm)                                            Rectangle         4         PTH        0.00inch (0.00mm)
-T2      20mil (0.508mm)                                           Round             205       PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             194       PTH        0.00inch (0.00mm)
 T3      26mil (0.65mm)                                            Round             2         PTH        0.00inch (0.00mm)
 T4      28mil (0.711mm)                                           Round             14        PTH        0.00inch (0.00mm)
 T5      32mil (0.8mm)                                             Round             24        PTH        0.00inch (0.00mm)
@@ -20,10 +20,10 @@ T8      41mil (1.05mm)                                            Round         
 T9      43mil (1.1mm)                                             Round             4         PTH        0.00inch (0.00mm)
 T10     47mil (1.2mm)                                             Round             2         PTH        0.00inch (0.00mm)
 T11     55mil (1.4mm)                                             Round             3         PTH        0.00inch (0.00mm)
-T12     59mil (1.5mm)                                             Round             16        PTH        0.00inch (0.00mm)
+T12     71mil (1.8mm)                                             Round             16        PTH        0.00inch (0.00mm)
 T13     73mil (1.854mm)                                           Round             3         PTH        0.00inch (0.00mm)
 T15     30mil (0.75mm)                                            Round             1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              294
+Totals                                                                              283
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -4,9 +4,9 @@ C:\Users\tmadu\Documents\Amateur Radio\Kenwood-TS50s-Digi-Interface\Kenwood-TS50
 ========================================================================================================================
 File Design Information:
 
-Date:       28/01/22
-Time:       16:38
-Revision:   d56e56224873e923ae4b2a7c45402df59ec3e9be
+Date:       31/01/22
+Time:       15:55
+Revision:   bbff67d8c0e10f6a6fd1895cf99bbb062b6b97d1
 Variant:    No variations
 Units used: mil
 
@@ -25,7 +25,7 @@ Units used: mil
 "TP1","GND","TopLayer","KSTN-5001","1970.000","14380.000","90","Test Point, Black, 1-Pin THD, RoHS, Bulk"
 "T2","SM-LP-5001","TopLayer","SM-LP-5001","2395.000","13510.000","360","TRANSFORMER LINE MATCHING SMD"
 "T1","SM-LP-5001","TopLayer","SM-LP-5001","3310.000","13510.000","360","TRANSFORMER LINE MATCHING SMD"
-"SW2","Voice <--> Digital, CW","TopLayer","FP-A101SDCQ04-MFG","2472.483","12777.470","0","SWITCH TOGGLE SPDT 5A 120V"
+"SW2","Voice <--> Digital, CW","TopLayer","FP-A101SDCQ04-MFG","2505.000","12780.000","0","SWITCH TOGGLE SPDT 5A 120V"
 "SW1","RST","TopLayer","FP-B3U-1000P-B-MFG","2450.000","14705.000","360","SWITCH TACTILE SPST-NO 0.05A 12V"
 "R12","330 Ohms","TopLayer","RES_0603_1608","3845.000","14140.000","90","RES SMD 330 OHM 1% 1/10W 0603"
 "R11","330 Ohms","TopLayer","RES_0603_1608","3405.000","14350.000","270","RES SMD 330 OHM 1% 1/10W 0603"
@@ -42,10 +42,10 @@ Units used: mil
 "P3","Line Out","TopLayer","HDR1X2","3793.701","13467.677","270","3.5mm Mono"
 "P2","Line In","TopLayer","HDR1X2","3793.701","13702.677","90","3.5mm Mono"
 "P1","To CN6","TopLayer","HDR1X6","3310.000","15495.000","180","Header, 6-Pin"
-"J4","Mic Input. (GX-8 Male)","TopLayer","GX-8","2002.483","12790.206","0","8 Position Circular Connector Receptacle, Male Pins Solder"
-"J3","To TS50 Front Panel. (GX-8 F)","TopLayer","GX-8","3785.003","12790.206","0","8 Position Circular Connector Receptacle, Male Pins Solder"
+"J4","Mic Input. (GX-8 M)","TopLayer","GX-8","1934.803","12790.827","0","8 Position Circular Connector Receptacle, Male Pins Solder"
+"J3","To TS50 Front Panel. (GX-8 F)","TopLayer","GX-8","3812.520","12790.827","0","8 Position Circular Connector Receptacle, Male Pins Solder"
 "J2","CW Key","TopLayer","MOLEX_KK_0022272021","2125.000","15440.000","360","CONN HEADER VERT 2POS 2.54MM"
-"J1","U254-051N-4BH806","TopLayer","CONN_10103594-0001LF_AMP","2750.748","15442.087","180","USB - Micro B Female USB 2 5 SMD USB Connectors RoHS"
+"J1","U254-051N-4BH806","TopLayer","CONN_10103594-0001LF_AMP","2750.748","15477.087","180","USB - Micro B Female USB 2 5 SMD USB Connectors RoHS"
 "DS5","PTT","TopLayer","AVAG-HLMP-3301-2","1757.913","14510.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
 "DS4","CW","TopLayer","AVAG-HLMP-3301-2","1757.913","14180.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
 "DS3","PWR","TopLayer","EVRL-0603-2_V","2355.000","15255.000","270","Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
