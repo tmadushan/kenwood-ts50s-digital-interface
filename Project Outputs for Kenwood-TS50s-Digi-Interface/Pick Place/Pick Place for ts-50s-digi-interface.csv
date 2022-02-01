@@ -4,9 +4,9 @@ C:\Users\tmadu\Documents\Amateur Radio\Kenwood-TS50s-Digi-Interface\Kenwood-TS50
 ========================================================================================================================
 File Design Information:
 
-Date:       31/01/22
-Time:       15:55
-Revision:   bbff67d8c0e10f6a6fd1895cf99bbb062b6b97d1
+Date:       01/02/22
+Time:       10:44
+Revision:   3be750d9d36352e94ff5961842c705da288a4dcd
 Variant:    No variations
 Units used: mil
 
@@ -45,12 +45,12 @@ Units used: mil
 "J4","Mic Input. (GX-8 M)","TopLayer","GX-8","1934.803","12790.827","0","8 Position Circular Connector Receptacle, Male Pins Solder"
 "J3","To TS50 Front Panel. (GX-8 F)","TopLayer","GX-8","3812.520","12790.827","0","8 Position Circular Connector Receptacle, Male Pins Solder"
 "J2","CW Key","TopLayer","MOLEX_KK_0022272021","2125.000","15440.000","360","CONN HEADER VERT 2POS 2.54MM"
-"J1","U254-051N-4BH806","TopLayer","CONN_10103594-0001LF_AMP","2750.748","15477.087","180","USB - Micro B Female USB 2 5 SMD USB Connectors RoHS"
+"J1","U254-051N-4BH806","TopLayer","CONN_10103594-0001LF_AMP","2750.748","15497.047","180","USB - Micro B Female USB 2 5 SMD USB Connectors RoHS"
 "DS5","PTT","TopLayer","AVAG-HLMP-3301-2","1757.913","14510.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
 "DS4","CW","TopLayer","AVAG-HLMP-3301-2","1757.913","14180.000","90","T-1 3/4 (5 mm) Diffused LED Lamp, 1.9 V, -40 to 100 degC, 2-Pin THD, RoHS, Bulk"
-"DS3","PWR","TopLayer","EVRL-0603-2_V","2355.000","15255.000","270","Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
-"DS2","RX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14969.925","180","Yellow 590nm LED Indication - Discrete 2V 0603 (1608 Metric)"
-"DS1","TX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14907.642","180","No Description Available"
+"PWR","PWR","TopLayer","EVRL-0603-2_V","2355.000","15255.000","270","Chip LED, Red, 5 V, 25 mA, -40 to 85 degC, 2-Pin SMD (0603), RoHS, Tape and Reel"
+"Rx","RX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14969.925","180","Yellow 590nm LED Indication - Discrete 2V 0603 (1608 Metric)"
+"Tx","TX","TopLayer","LED_19-217/GHC-YR1S2/3T_EVE","2545.744","14907.642","180","No Description Available"
 "D6","1N4148WT","BottomLayer","FAIR-SOD-523F-2_V","1930.000","14535.000","270","High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS"
 "D5","1N4148WT","BottomLayer","FAIR-SOD-523F-2_V","1930.000","14225.000","270","High Conductance Fast Switching Diode, 75 V, -55 to 150 degC, 2-Pin SOD523F, RoHS"
 "D4","ESD Diode","TopLayer","0603ESDA-05N","2845.972","15167.429","270","Bidirectional - 50V - 5V 0603 ESD Protection Devices ROHS"

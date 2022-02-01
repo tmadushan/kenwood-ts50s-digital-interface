@@ -1,28 +1,29 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Kenwood-TS50s-Digi-Interface.PrjPcb]
-   Generated File[bottomplate.GTO]
-   Generated File[bottomplate.GTP]
-   Generated File[bottomplate.GTS]
-   Generated File[bottomplate.GTL]
-   Generated File[bottomplate.GBL]
-   Generated File[bottomplate.GBS]
-   Generated File[bottomplate.GBP]
-   Generated File[bottomplate.GBO]
-   Generated File[bottomplate.GM1]
-   Generated File[bottomplate.GKO]
-   Generated File[bottomplate.GPT]
-   Generated File[bottomplate.GPB]
-   Generated File[bottomplate.1]
-   Generated File[bottomplate.GML]
-   Generated File[bottomplate.GD1]
-   Generated File[bottomplate.GG1]
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Kenwood-TS50s-Digi-Interface.PrjPcb]
+   Generated File[bottomplate_Copper_Signal_Top.gbr]
+   Generated File[bottomplate_Copper_Signal_Bot.gbr]
+   Generated File[bottomplate_Pads_Bot.gbr]
+   Generated File[bottomplate_Pads_Top.gbr]
+   Generated File[bottomplate_Legend_Bot.gbr]
+   Generated File[bottomplate_Soldermask_Bot.gbr]
+   Generated File[bottomplate_Paste_Bot.gbr]
+   Generated File[bottomplate_Legend_Top.gbr]
+   Generated File[bottomplate_Paste_Top.gbr]
+   Generated File[bottomplate_Soldermask_Top.gbr]
+   Generated File[bottomplate_Keep-out.gbr]
+   Generated File[bottomplate_Mechanical_1.gbr]
+   Generated File[bottomplate_Profile.gbr]
+   Generated File[bottomplate_NPTH_Drill.gbr]
+   Generated File[bottomplate_PTH_Drill.gbr]
+   Generated File[bottomplate_Drawing_1.gbr]
+   Generated File[bottomplate_Drillmap_1.gbr]
    Generated File[bottomplate.RUL]
    Generated File[bottomplate.EXTREP]
    Generated File[bottomplate.REP]
 
 
-Files Generated   : 19
+Files Generated   : 20
 Documents Printed : 0
 
-Finished Output Generation At 01:20:13 On 01/02/2022
+Finished Output Generation At 11:03:09 On 01/02/2022
